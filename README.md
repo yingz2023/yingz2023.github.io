@@ -10,7 +10,7 @@ A brief description of my project.
 - [License](#license)
 - [Contact](#contact)
 
-# UX Measurement and Benchmarking for an enterprise AI platform
+# UX Benchmarking for an enterprise AI platform 
 
 A brief description of my project.
 
