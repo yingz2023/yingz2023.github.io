@@ -10,11 +10,15 @@ A brief description of my project.
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+# WiDS Datathon 2025 
 
-Instructions on how to set up your project locally. For example:
+A brief description of my project.
 
-```bash
-git clone https://github.com/yingz2023/yingz2023.github.io.git
-cd yingz2023.github.io
-# Add any other setup instructions here
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
