@@ -1,4 +1,4 @@
-# UX Measurement and Benchmarking for an AI platform
+# UX Measurement and Benchmarking for an enterprise AI platform
 
 A brief description of my project.
 
