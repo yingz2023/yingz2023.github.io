@@ -4,7 +4,7 @@ A brief description of my project.
 
 ## Table of Contents
 
-- [Problem statement]<a href="https://www.kaggle.com/competitions/widsdatathon2025/discussion?sort=hotness" target="_blank">
+- [Problem statement](https://www.kaggle.com/competitions/widsdatathon2025/discussion?sort=hotness)
 
 - [End to end ML solutions](#link)
 
