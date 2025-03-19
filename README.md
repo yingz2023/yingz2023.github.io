@@ -20,10 +20,7 @@ A brief description of my project.
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [R code](https://github.com/yingz2023/yingz2023.github.io/blob/main/BM.R)
 
 # Product Outcome Prioritization Survey 
 
