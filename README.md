@@ -4,11 +4,8 @@ A brief description of my project.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Problem statement](#link)
+- [End to end ML solutions](#link)
 
 # UX Benchmarking for an enterprise AI platform 
 
