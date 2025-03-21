@@ -29,8 +29,6 @@ A brief description of my project. Visualization using Rshiny app.
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [R Shiny Data Visualization App](https://zhou-yingz.shinyapps.io/outcome_app/)
+
 
