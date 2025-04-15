@@ -1,6 +1,6 @@
-# RAG/Agentic 
+# RAG/Agentic Development
 
-This project explores the use of LangChain framework to build a Q&A chatbot trained on Openshift AI product documentation.
+Using LangChain framework to build a Q&A chatbot trained on Openshift AI product documentation.
 
 ## Table of Contents
 
