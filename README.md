@@ -1,9 +1,6 @@
 # RAG/Agentic Development
 
 Using LangChain framework to build a Q&A chatbot trained on Openshift AI product documentation.
-
-## Table of Contents
-
 - [Github Repo Code](https://github.com/yingz2023/RAG/blob/main/QA_chatbot/README.md)
 
 # WiDS Datathon 2025 
