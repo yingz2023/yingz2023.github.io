@@ -1,3 +1,11 @@
+# RAG/Agentic 
+
+This project explores the use of LangChain framework to build a Q&A chatbot trained on Openshift AI product documentation.
+
+## Table of Contents
+
+- [Github Repo Code](https://github.com/yingz2023/RAG/blob/main/QA_chatbot/README.md)
+
 # WiDS Datathon 2025 
 
 Unraveling the Mysteries of the Female Brain: Sex Patterns in ADHD
@@ -19,7 +27,6 @@ A brief description of my project.
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [R code](https://github.com/yingz2023/yingz2023.github.io/blob/main/BM.R)
 
 # Product Outcome Prioritization Survey 
@@ -28,7 +35,6 @@ A brief description of my project. Visualization using Rshiny app.
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [R Shiny Data Visualization App](https://zhou-yingz.shinyapps.io/outcome_app/)
 
 
