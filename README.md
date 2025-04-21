@@ -12,12 +12,6 @@ Using LangChain framework to build a Q&A chatbot trained on Openshift AI product
 The task is to create a multi-outcome model to predict two separate target variables: 1) ADHD (1=yes or 0=no) and 2) female (1=yes or 0=no).
 
 - [My end to end ML solutions](https://github.com/jinhuizi-fu/wids-2025-h-y/blob/ying-test/WIDS2025.ipynb)
-  - Data cleaning and preprocessing for model development and analysis
-  - Understanding correlations
-  - Regression model selection (statistical, machine learning)
-  - Regression model fitting/testing (cross validation, avoiding over/underfitting, stratification of data during training)
-  - Explaining factors that drive the performance of the model
-  - Multi-outcome prediction
 
 # UX Benchmarking for an enterprise AI platform 
 
