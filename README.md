@@ -5,12 +5,13 @@ Using LangChain framework to build a Q&A chatbot trained on Openshift AI product
 
 # WiDS Datathon 2025 
 
-Unraveling the Mysteries of the Female Brain: Sex Patterns in ADHD
+- Problem statement: In this year’s WiDS Datathon, participants will be tasked with building a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
 
-## Table of Contents
+- Challenge Question and Task:
+“What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?”
+The task is to create a multi-outcome model to predict two separate target variables: 1) ADHD (1=yes or 0=no) and 2) female (1=yes or 0=no).
 
-- [Problem statement](https://www.kaggle.com/competitions/widsdatathon2025/discussion?sort=hotness)
-- [My end to end ML solutions](#link)
+- [My end to end ML solutions](https://github.com/jinhuizi-fu/wids-2025-h-y/blob/ying-test/WIDS2025.ipynb)
   - Data cleaning and preprocessing for model development and analysis
   - Understanding correlations
   - Regression model selection (statistical, machine learning)
