@@ -15,16 +15,11 @@ The task is to create a multi-outcome model to predict two separate target varia
 
 # UX Benchmarking for an enterprise AI platform 
 
-## Table of Contents
-
 - [R code](https://github.com/yingz2023/yingz2023.github.io/blob/main/BM.R)
 
 # Product Outcome Prioritization Survey 
 
-A brief description of my project. Visualization using Rshiny app.
-
-## Table of Contents
-
+Driving product prioritizations with survey and data viz.
 - [R Shiny Data Visualization App](https://zhou-yingz.shinyapps.io/outcome_app/)
 
 # Responsible AI project 
