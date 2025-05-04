@@ -15,8 +15,6 @@ The task is to create a multi-outcome model to predict two separate target varia
 
 # UX Benchmarking for an enterprise AI platform 
 
-A brief description of my project.
-
 ## Table of Contents
 
 - [R code](https://github.com/yingz2023/yingz2023.github.io/blob/main/BM.R)
@@ -29,12 +27,14 @@ A brief description of my project. Visualization using Rshiny app.
 
 - [R Shiny Data Visualization App](https://zhou-yingz.shinyapps.io/outcome_app/)
 
-# Responsible AI: Do Large Language Models Essentialize Human Groups (Like Humans Do)? Using Cognitive Psychology to Probe AI Social Bisa in GPT-4
+# Responsible AI project 
 
+Do Large Language Models Essentialize Human Groups (Like Humans Do)? Using Cognitive Psychology to Probe AI Social Bisa in GPT-4
 - [Georgia Journal of Science](https://digitalcommons.gaacademy.org/gjs/vol82/iss1/142/)
 
-# My PhD Dissertation invetisgating the cognitive mechanisms behind the inverse frequency effect in syntactic priming
+# My PhD Dissertation
 
+An investigation of the cognitive mechanisms behind the inverse frequency effect in syntactic priming
 - [ProQuest Preview](https://www.proquest.com/openview/9ba85529baab13ec810d50236b2d38c4/1.pdf?cbl=18750&diss=y&pq-origsite=gscholar)
 
 
