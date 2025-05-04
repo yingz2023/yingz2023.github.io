@@ -29,11 +29,11 @@ A brief description of my project. Visualization using Rshiny app.
 
 - [R Shiny Data Visualization App](https://zhou-yingz.shinyapps.io/outcome_app/)
 
-## Responsible AI: Do Large Language Models Essentialize Human Groups (Like Humans Do)? Using Cognitive Psychology to Probe AI Social Bisa in GPT-4
+# Responsible AI: Do Large Language Models Essentialize Human Groups (Like Humans Do)? Using Cognitive Psychology to Probe AI Social Bisa in GPT-4
 
 - [Georgia Journal of Science](https://digitalcommons.gaacademy.org/gjs/vol82/iss1/142/)
 
-## My PhD Dissertation invetisgating the cognitive mechanisms behind the inverse frequency effect in syntactic priming
+# My PhD Dissertation invetisgating the cognitive mechanisms behind the inverse frequency effect in syntactic priming
 
 - [ProQuest Preview](https://www.proquest.com/openview/9ba85529baab13ec810d50236b2d38c4/1.pdf?cbl=18750&diss=y&pq-origsite=gscholar)
 
