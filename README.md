@@ -13,7 +13,12 @@ The task is to create a multi-outcome model to predict two separate target varia
 
 - [My end to end ML solutions](https://github.com/jinhuizi-fu/wids-2025-h-y/blob/ying-test/WIDS2025.ipynb)
 
-# UX Benchmarking for an enterprise AI platform 
+# Data Visualization
+
+Interactive data visualizations for various projects:
+- [Sunburst Diagram](visualizations/sunburst.html)
+
+# UX Benchmarking  
 
 - [R code](https://github.com/yingz2023/yingz2023.github.io/blob/main/BM.R)
 
